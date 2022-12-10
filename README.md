@@ -5,6 +5,10 @@ A website for a company ShiftCo to learn more about the company and the services
 
 https://shift.com.ly/
 
+A site to display what a carta is and what the company provides of services:
+
+https://carta.ly/
+
 ThePost blog:
 
 https://post.shift.com.ly/
